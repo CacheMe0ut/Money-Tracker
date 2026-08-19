@@ -17,7 +17,7 @@ dotenv.config({
 // =====================================================
 
 const Transaction = require("./models/Transaction");
-const Budget = require("./models/Budget");
+const Budget = require("./models/budget");
 
 // =====================================================
 // AUTH ROUTES
